@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Hello this is devops test </h1>
+<h1>Hello </h1>
 
 <?php
 echo "version :Ver 2.0";
